@@ -68,6 +68,7 @@ El proyecto utiliza una **tabla de hechos (ventas)** y **tablas dimensionales (c
 5. Resumen ejecutivo	Interpretar resultados y generar recomendaciones.	Insights estratégicos.
    
 
+
 **Resumen Ejecutivo**
 
 **Hallazgos**
@@ -84,6 +85,7 @@ La ciudad con mayor volumen de ventas es Ciudad de Mexico.
 El canal de venta más eficiente en términos de ingresos es corredor en ambos periodos
 <head></head>
 
+
 **Métricas principales**
 
 Ingreso Total: 6,012,502,170
@@ -97,6 +99,34 @@ Ticket Promedio: 707,353
 
 Comisión Total: 200,627,166
 <head></head>
+
+**Insights accionables**
+
+El segmento de clientes Primera Vez concentra la mayor parte del ingreso.
+<head></head>
+
+El 100% de las 8,500 ventas corresponden a transacciones únicas en el mes de adquisición, como se puede observar en la matriz de Cohortes.
+<head></head>
+
+Las ventas muestran un crecimiento de 11.14% en 2024 YoY.
+
+
+**Visualizaciones interactivas en Tableau**
+
+https://public.tableau.com/views/Sprint11EstrategiacomercialdeAndesCapitalRealEstate/Proyecto?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="991" height="687" alt="image" src="https://github.com/user-attachments/assets/806570e4-8bab-47b7-b33b-c23b8558d381" />
+
+
+<img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/b38794f1-8ee8-483b-bca5-5a3180147f84" />
+
+
+<img width="733" height="607" alt="image" src="https://github.com/user-attachments/assets/51af80bc-5aa4-45d5-9760-ee0fb876c6f1" />
+
+
+
+<img width="870" height="602" alt="image" src="https://github.com/user-attachments/assets/b907c0cd-a1cc-4ba0-a83f-1e4adb07fb7b" />
+
 
 
 
